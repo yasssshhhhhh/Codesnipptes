@@ -1,0 +1,12 @@
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\bin\Debug\EmployeeData.dll.config
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\bin\Debug\EmployeeData.dll
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\bin\Debug\EntityFramework.dll
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\bin\Debug\EntityFramework.xml
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\obj\Debug\EmployeeData.csprojAssemblyReference.cache
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\obj\Debug\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\obj\Debug\EmployeeData.csproj.CopyComplete
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\obj\Debug\EmployeeData.dll
+C:\Users\kushal\source\repos\RandomAPI\EmployeeData\obj\Debug\EmployeeData.pdb

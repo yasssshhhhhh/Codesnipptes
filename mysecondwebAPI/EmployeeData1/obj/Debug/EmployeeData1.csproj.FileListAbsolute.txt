@@ -1,0 +1,12 @@
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\bin\Debug\EmployeeData1.dll.config
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\bin\Debug\EmployeeData1.dll
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\bin\Debug\EmployeeData1.pdb
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\bin\Debug\EntityFramework.dll
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\bin\Debug\EntityFramework.xml
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\obj\Debug\EmployeeData1.csprojAssemblyReference.cache
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\obj\Debug\EmployeeData1.csproj.CoreCompileInputs.cache
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\obj\Debug\EmployeeData1.csproj.CopyComplete
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\obj\Debug\EmployeeData1.dll
+C:\Users\kushal\source\repos\mysecondwebAPI\EmployeeData1\obj\Debug\EmployeeData1.pdb
